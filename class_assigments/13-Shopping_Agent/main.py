@@ -5,7 +5,7 @@ from rich import print
 
 #Use these inputs to test the agent
 # input = "How many brands are there in your store?"
-# input="Show me Al-Ekhtiari collection of your store."
+# input="Show me special collection of your store."
 # input="Show me male collection of your store"
 # input="Show me female collection of your store"
 # input="Show me unisex collection of your store"
